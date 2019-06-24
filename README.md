@@ -1,40 +1,31 @@
-# Badger
-
-## Installation
-
-- Firefox and Chrome: Download the most recent release from https://badger.bitcoin.com
-- Brave: Install from chrome store
-
-## API Documentation
-
+獾
+獾
+安装
+Firefox和Chrome：从https://badger.bitcoin.com下载最新版本
+勇敢：从chrome商店安装
+API文档
 https://developer.bitcoin.com/badger/docs/getting-started
 
-## Intro
+介绍
+Badger是比特币现金的安全身份保险库。它允许您持有BCH和令牌，并作为分散应用程序（dapps）的桥梁。
 
-Badger is a secure identity vault for Bitcoin Cash. It allows you to hold BCH & tokens, and serves as your bridge to decentralized applications (dapps).
+比特币现金和代币通过小额支付，智能资产，分散交换，分布式自治组织等为网络提供全新的维度。
 
-Bitcoin Cash and tokens enable an entirely new dimension to the web with micro-payments, smart-assets, decentralized exchanges, distributed autonomous organizations and much more.
+Badger是您在这个新网站上的身份。您可以支付高级内容，运行智能合约，无忧无虑地体验dapps。
 
-Badger is your identity on this new web. You can pay for premium content, run smart contracts and experience dapps seemlessly and trust free.
+由BITBOX提供支持，Badger是100％非监管。您的私钥永远不会离开您的计算机。
 
-Powered by BITBOX, Badger is 100% non-custodial. Your private keys never leave your computer.
+獾按钮
+Badger Button是一个开源UI组件库，内容创建者和企业家可以访问他们的网站，以实现微支付，优质内容，小费，电子商务等等。
 
-## Badger Button
-
-Badger Button is a library of open source UI components which content creators and entrepreneurs can drop in to their site to enable micro payments, premium content, tipping, e-commerce and much more.
-
-- Usage: https://old.reddit.com/r/btc/comments/9l9j1t/how_to_create_your_own_custom_badger_button/
-- Example buttons visible on articles at https://coinspice.io/
-
-## CashID
-
-- Allows dapps to authenticate an account and provide previously purchased content
-- CashID react component and example usage by paOol: https://github.com/paOol/react-cashid
-
-## Credits
-
-- [SpendBCH](https://twitter.com/SpendBCH_io)
-- [Gabriel Cardona](https://twitter.com/cgcardona)
-- [SLP](https://twitter.com/simpleledger)
-- [bitcoin.com](https://developer.bitcoin.com)
-- Badger is originally forked from the excellent MetaMask project
+用法：https：//old.reddit.com/r/btc/comments/9l9j1t/how_to_create_your_own_custom_badger_button/
+在https://coinspice.io/上的文章上可以看到示例按钮
+CashID
+允许dapps对帐户进行身份验证并提供以前购买的内容
+CashID通过paOol反应组件和示例用法：https：//github.com/paOol/react-cashid
+积分
+SpendBCH
+加布里埃尔卡多纳
+SLP
+bitcoin.com
+Badger最初来自优秀的MetaMask项目
